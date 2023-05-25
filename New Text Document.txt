@@ -1,0 +1,43 @@
+Practical 3 
+creation of srs document for assigned mini project 
+
+											SRS
+source 		owner 		requirement ID 			priority
+
+							1.0				high
+
+
+
+Functional Requirements
+
+
+
+Non - functinal requirements
+Description 	target value 		Acception range 		Comments
+
+
+
+
+Benefits
+
+
+Comments / suggested solutions 
+
+
+Related Documents
+Required system DFD , process box 5.9
+SRS
+used Case Diagram
+Class Diagram
+Sequence diagram
+Activity Diagram
+ER diagram
+Feasibility report
+risk sheet
+
+
+Related Requirements
+
+
+
+Resolution
